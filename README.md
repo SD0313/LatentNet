@@ -1,13 +1,13 @@
 # 2021 International Science and Engineering Fair
 
-***Currently In Progress***
+
 
 Paper: [doi.org/10.1101/2021.01.13.21249774](https://doi.org/10.1101/2021.01.13.21249774)
 
-This repo contains code for the 2021 Science and Engineering Fair.
+This repo contains code for the International Science and Engineering Fair hosted by Regeneron from May 16-21, 2021.
 The main idea of the project is to be able to address racial and other
 inherent forms of bias in a dataset while creating a deep learning
-based diagnosis for Melanoma. Full detail is in the paper. 
+based diagnosis for Melanoma. Model details can be found in the ```Training``` folder of this repository. Full detail is in the paper. 
 
 **Results**
 
