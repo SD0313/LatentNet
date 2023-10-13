@@ -2,7 +2,7 @@
 
 
 
-Paper: [doi.org/10.1101/2021.01.13.21249774](https://doi.org/10.1101/2021.01.13.21249774)
+Paper: [Automated Bias Reduction in Deep Learning Based Melanoma Diagnosis using a Semi-Supervised Algorithm](https://ieeexplore.ieee.org/abstract/document/9669772)
 
 This repo contains code for the International Science and Engineering Fair hosted by Regeneron from May 16-21, 2021.
 The main idea of the project is to be able to address racial and other
